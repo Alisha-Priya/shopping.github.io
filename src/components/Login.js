@@ -35,7 +35,7 @@ const Login = () => {
 
         <div className='login'>
             <Link to="/">
-                <img className='login__logo' src='https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Floginpng.png?alt=media&token=62f49946-b1d9-4294-a57a-7c40e0d1e439' alt="" />
+                <img className='login__logo' src='https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fsa-removebg-preview.png?alt=media&token=e7ff36a6-a4f6-4b4e-805c-512b95e58505' alt="" />
             </Link>
             <div className="login__container">
                 <h1>Sign-in</h1>

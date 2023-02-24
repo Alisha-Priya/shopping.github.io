@@ -1,8 +1,5 @@
 export const SlideData = [
-    {
-        image:
-            "https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fs8.jpg?alt=media&token=d46341b0-27e9-4fc2-b7d8-444647f1dc6b"
-    },
+    
     {
         image:
             "https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fs6.jpg?alt=media&token=ec7d6ceb-4ecb-4296-904f-cdb2efce5f34"
@@ -18,5 +15,10 @@ export const SlideData = [
     {
         image:
             "https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fs3.jpg?alt=media&token=e97c55b1-ac09-4440-b7f2-3d081bc0cce1"
+    },
+    {
+        image:
+            "https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fs8.jpg?alt=media&token=66f8f9a1-f0ff-48d4-8304-2097038f63b4"
     }
 ];
+

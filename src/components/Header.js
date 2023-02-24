@@ -17,7 +17,7 @@ const Header = () => {
     return (
         <div className='header'>
             <Link to='/'>
-                <img className='header__logo' src='https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Famazonlogo.png?alt=media&token=8b97cd4a-0cb1-4657-a1d1-7ace4bb95057' alt="" />
+                <img className='header__logo' src='https://firebasestorage.googleapis.com/v0/b/by-salik.appspot.com/o/Asset%2Fone-store-image600-removebg-preview.png?alt=media&token=1d2ab6bb-459c-40b4-b67b-76b9119309c9' alt="" />
             </Link>
 
             <div className="header__search">
